@@ -7,7 +7,7 @@ import { RouterLink } from "vue-router";
     <nav class="container">
         <div class="branding">
             <img src="../assets/Vue_Logo_Black.png" alt="vue logo" />
-            <h1>Vue Todos</h1>
+            <h1>Vue To-do</h1>
         </div>
         <ul class="nav-routes">
           <RouterLink to="/">Home</RouterLink>

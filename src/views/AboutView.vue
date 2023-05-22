@@ -1,10 +1,10 @@
 <template>
   <div class="about">
-    <h1>Vue Todos</h1>
+    <h1>Vue To-do</h1>
     <p>
-      Vue Todos is a CRUD Todo tracking application created by using Vue 3 Composition API.
+      Vue To-do's is a CRUD Todo tracking application created by using Vue 3 Composition API.
       <br><br>
-      Track your daily tasks using this todo tracker with abilities to save, complete, edit and delete todo's.
+      Track your daily tasks using this todo tracker with abilities to save, complete, edit and delete to-do's.
     </p>
   </div>
 </template>
